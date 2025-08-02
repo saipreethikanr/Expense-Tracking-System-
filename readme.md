@@ -41,7 +41,7 @@ To set up the project locally, follow these steps:
 1. **Clone the Repository**:  
    Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/saipreethikanr/Expense-Tracking-System-.git
+   https://github.com/saipreethikanr/Expense-Tracking-System-.git
    ```
 
 2. **Navigate to the Project Directory**:  
@@ -89,6 +89,7 @@ After setting up the application, you can start tracking your expenses. Here’s
 
 1. Access the "Manage Expenses" section.
 2. You can edit or delete any existing expense records.
+
 
 
 
