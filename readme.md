@@ -1,20 +1,10 @@
-# Expense Tracker: A Comprehensive Expense Management System 💰
+# Expense Tracking System
 
-![Expense Tracker](https://img.shields.io/badge/Expense_Tracker-Ready-brightgreen)  
-[![Releases](https://img.shields.io/badge/Releases-Click_here-brightorange)](https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/releases)
+
 
 Welcome to the **Expense Tracker** project! This application helps you manage your daily expenses effectively. It combines a user-friendly Streamlit frontend, a robust FastAPI backend, and an SQL database for seamless data handling. 
 
-## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
@@ -100,28 +90,3 @@ After setting up the application, you can start tracking your expenses. Here’s
 1. Access the "Manage Expenses" section.
 2. You can edit or delete any existing expense records.
 
-## Contributing
-
-We welcome contributions to enhance the project. To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push to your branch and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **GitHub**: [chantipoloju](https://github.com/chantipoloju)
-- **Email**: your-email@example.com
-
-## Releases
-
-You can find the latest releases of the project [here](https://github.com/chantipoloju/codebasics_expense_tracking_with_sqlServer_FastAPI_Logging_Streamlit_pyDantic/releases). Download the necessary files and execute them to get started.
-
-Thank you for checking out the Expense Tracker project! We hope you find it useful for managing your finances. Happy tracking!
