@@ -1,7 +1,7 @@
 import os
 import sys
 # Replace this with the absolute path to your backend directory
-backend_path = r"l:\CodeBasics\Projects\2_Expense_tracking"
+backend_path = r"l:\SaiPreethika\Projects\2_Expense_tracking"
 sys.path.append(backend_path)
 
 from backend import db_helper
@@ -20,4 +20,5 @@ def test_fetch_expenses_on_invalid_date():
 def test_fetch_expenses_summary_date():
     summary = db_helper.fetch_expense_summary('9999-08-01', '9999-08-15')
     assert len(summary) == 0
+
 
